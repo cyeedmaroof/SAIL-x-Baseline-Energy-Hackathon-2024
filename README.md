@@ -7,4 +7,6 @@ My team (Name of team: 3M) of two, won the first price!!!
 
 Winning model: CNN-LSTM->XGBoost
 
-I have added the models and full code along with the dataset provided, that I used for this hackathon. Enjoy hacking!
+I have added the models and full code along with the dataset provided, that I used for this hackathon. 
+
+Happy hacking:)
